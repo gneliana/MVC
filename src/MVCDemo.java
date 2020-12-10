@@ -3,7 +3,7 @@ import Model.CourseClass;
 import Model.StudentClass;
 import View.RosterClass;
 
-public class Main {
+public class MVCDemo {
 	 public static void main(String[] args) {
 		//fetch student record based on his roll no from the database
          CourseClass model  = retriveCourseFromDatabase();
